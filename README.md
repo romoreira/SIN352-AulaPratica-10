@@ -103,10 +103,10 @@ Agora considere o quadro Ethernet que contém o primeiro byte da resposta HTTP (
 Use suas próprias capturas; as figuras abaixo são apenas referências conceituais:
 
 - **Figura 1** – Exemplo de tela do Wireshark com a mensagem HTTP GET.  
-  `![Figura 1 – Quadro com HTTP GET](1.png)`
+  ![Figura 1 – Quadro com HTTP GET](1.png)
 
 - **Figura 2** – Detalhes do quadro Ethernet que contém o HTTP GET.  
-  `![Figura 2 – Detalhes do quadro Ethernet](2.png)`
+  ![Figura 2 – Detalhes do quadro Ethernet](2.png)
 
 ---
 
