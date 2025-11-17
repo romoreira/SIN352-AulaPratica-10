@@ -1,6 +1,7 @@
-# Laboratório Wireshark: Ethernet e ARP (v8.1)
+# Universidade Federal de Viçosa (UFV) Campus Rio Paranaíba
+## SIN 352 - Redes de Computadores
+### Laboratório Wireshark: Ethernet e ARP
 
-*Adaptado do suplemento de laboratório de* **Computer Networking: A Top-Down Approach, 8ª edição, J.F. Kurose e K.W. Ross**.
 
 ---
 
