@@ -132,6 +132,7 @@ Passos:
 2. Execute:
    ```bash
    arp -a
+
 Observe a tabela exibida (endereços IP, endereços físicos/MAC e tipo/estado).
 
 Exemplo ilustrativo (não copie os valores):
