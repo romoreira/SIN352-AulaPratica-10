@@ -1,6 +1,7 @@
 # Universidade Federal de Viçosa (UFV) Campus Rio Paranaíba
 ## SIN 352 - Redes de Computadores
 ### Laboratório Wireshark: Ethernet e ARP
+### Prof. Dr. Rodrigo Moreira
 
 
 ---
@@ -102,10 +103,10 @@ Agora considere o quadro Ethernet que contém o primeiro byte da resposta HTTP (
 Use suas próprias capturas; as figuras abaixo são apenas referências conceituais:
 
 - **Figura 1** – Exemplo de tela do Wireshark com a mensagem HTTP GET.  
-  `![Figura 1 – Quadro com HTTP GET](fig1-http-get.png)`
+  `![Figura 1 – Quadro com HTTP GET](1.png)`
 
 - **Figura 2** – Detalhes do quadro Ethernet que contém o HTTP GET.  
-  `![Figura 2 – Detalhes do quadro Ethernet](fig2-ethernet-get.png)`
+  `![Figura 2 – Detalhes do quadro Ethernet](2.png)`
 
 ---
 
@@ -135,7 +136,7 @@ Observe a tabela exibida (endereços IP, endereços físicos/MAC e tipo/estado).
 
 Exemplo ilustrativo (não copie os valores):
 
-![Figura 3 – Exemplo de saída do comando arp -a](fig3-arp-a.png)
+![Figura 3 – Exemplo de saída do comando arp -a](3png)
 
 Questões:
 
@@ -184,7 +185,7 @@ A tela deverá exibir requisições e respostas ARP.
 
 Exemplo ilustrativo:
 
-![Figura 4 – Exemplo de requisição ARP em broadcast](fig4-arp-broadcast.png)
+![Figura 4 – Exemplo de requisição ARP em broadcast](4.png)
 
 2.4 Questões sobre quadros Ethernet com ARP
 Considere o quadro Ethernet que contém a requisição ARP enviada pelo seu computador.
