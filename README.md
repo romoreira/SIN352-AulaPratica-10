@@ -136,7 +136,7 @@ Observe a tabela exibida (endereços IP, endereços físicos/MAC e tipo/estado).
 
 Exemplo ilustrativo (não copie os valores):
 
-![Figura 3 – Exemplo de saída do comando arp -a](3png)
+![Figura 3 – Exemplo de saída do comando arp -a](3.png)
 
 Questões:
 
