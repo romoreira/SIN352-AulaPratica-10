@@ -51,7 +51,7 @@ Em seguida:
 
 > Você pode responder às questões abaixo usando:
 > - sua própria captura, ou  
-> - o traço fornecido [ethernet-wireshark-trace1](https://github.com/romoreira/SIN352-AulaPratica-10/blob/dc0df427f522a11fc6253d31cdc9974701e66fb4/ethernet-ethereal-trace-1).
+> - o traço fornecido [ethernet-wireshark-trace1.pcapng](https://github.com/romoreira/SIN352-AulaPratica-10/blob/7c76891d9f927eca9f58416439e9202fc9c95a77/ethernet-wireshark-trace1.pcapng).
 
 ---
 
